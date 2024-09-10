@@ -10,7 +10,7 @@ import telebot
 from telebot import types
 
 ########################################################################################################################-------- ПЕРЕМЕННЫЕ
-
+# git_test
 bot = telebot.TeleBot('7073557228:AAHxo15uAsWyGQ7sRvv8POBqGjX1yNlHFf0')
 users = Connected_Users()
 # client_q = 0

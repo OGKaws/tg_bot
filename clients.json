@@ -1,0 +1,22 @@
+[
+    {
+        "Client name ": "kate",
+        "paid training ": 15,
+        "Complete training ": 5
+    },
+    {
+        "Client name ": "sara",
+        "paid training ": 50,
+        "Complete training ": 5
+    },
+    {
+        "Client name ": "Nik",
+        "paid training ": 98,
+        "Complete training ": 2
+    },
+    {
+        "Client name ": "Dasha",
+        "paid training ": 297,
+        "Complete training ": 3
+    }
+]
